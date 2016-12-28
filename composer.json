@@ -1,0 +1,13 @@
+{
+    "name": "simplon/twig_demoo",
+    "type": "project",
+    "authors": [
+        {
+            "name": "rxlabz",
+            "email": "dev@rxlabz.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^1.29"
+    }
+}
